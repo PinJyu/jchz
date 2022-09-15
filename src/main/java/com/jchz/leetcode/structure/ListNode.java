@@ -6,10 +6,10 @@ package com.jchz.leetcode.structure;
  * @createTime 2022-09-13 13:24
  */
 public class ListNode {
-    int val;
+    public int val;
     public ListNode next;
 
-    ListNode(int x) {
+    public ListNode(int x) {
         val = x;
         next = null;
     }
