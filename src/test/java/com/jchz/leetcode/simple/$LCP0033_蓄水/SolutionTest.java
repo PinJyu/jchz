@@ -1,4 +1,4 @@
-package com.jchz.leetcode.simple.LCP0033_蓄水;
+package com.jchz.leetcode.simple.$LCP0033_蓄水;
 
 import org.junit.jupiter.api.Test;
 
