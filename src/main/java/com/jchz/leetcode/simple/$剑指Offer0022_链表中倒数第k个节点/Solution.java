@@ -1,4 +1,4 @@
-package com.jchz.leetcode.simple.$剑指Offe0022_链表中倒数第k个节点;
+package com.jchz.leetcode.simple.$剑指Offer0022_链表中倒数第k个节点;
 
 import com.jchz.leetcode.structure.ListNode;
 
