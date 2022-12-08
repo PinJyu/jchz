@@ -3,6 +3,12 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/spring-cloud/register-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/zuul" vcs="Git" />
   </component>
 </project>
