@@ -9,6 +9,7 @@
     <mapping directory="$PROJECT_DIR$/spring-cloud/eureka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-cloud/gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-cloud/provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud/springconfig" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-cloud/zuul" vcs="Git" />
   </component>
 </project>
